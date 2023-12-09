@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Hugo
-- 👀 I’m interested in Jesus Christ, C++, Shell Script, Linux, Python, Embbeded Systems, Rust
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in Jesus, C++, Shell Script, Linux, Python, Embbeded Systems, Rust...
 
 <!---
 HugoAlmeida12/HugoAlmeida12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
